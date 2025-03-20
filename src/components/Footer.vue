@@ -2,18 +2,18 @@
   <Container custom-class="footer" :fluid="true">
     <Row>
       <Column md="4" custom-class="footer-copywright">
-        <h3>Designed and Developed by Muneer Ahmed</h3>
+        <h3>Designed and Developed by Syed Mehrab</h3>
       </Column>
       <Column md="4" custom-class="footer-copywright">
         <h3>
-          Copyright © {{ year }} <strong>{{ "<Ma. />" }}</strong>
+          Copyright © {{ year }} <strong>{{ "<syedM. />" }}</strong>
         </h3>
       </Column>
       <Column md="4" custom-class="footer-body">
         <ul class="footer-icons">
           <li class="social-icons">
             <a
-              href="https://github.com/muneer-ahmed-khan"
+              href="https://github.com/syedmehrabzaidi"
               target="_blank"
               rel="noreferrer"
               style="color: white"
@@ -23,7 +23,7 @@
           </li>
           <li class="social-icons">
             <a
-              href="https://www.linkedin.com/in/muneer-ahmed-a59362140/"
+              href="https://www.linkedin.com/in/syed-mehrab-18934220a/"
               target="_blank"
               rel="noreferrer"
               style="color: white"
@@ -33,7 +33,7 @@
           </li>
           <li class="social-icons">
             <a
-              href="https://stackoverflow.com/users/8422060/muneer-khan"
+              href="https://stackoverflow.com/#"
               target="_blank"
               rel="noreferrer"
               style="color: white"
@@ -43,17 +43,14 @@
           </li>
           <li class="social-icons">
             <a
-              href="https://medium.com/@muneerkhan31886"
-              target="_blank"
-              rel="noreferrer"
-              style="color: white"
+            
             >
               <font-awesome-icon :icon="['fab', 'medium-m']" />
             </a>
           </li>
           <li class="social-icons">
             <a
-              href="https://www.facebook.com/muneerkhan555/"
+              href="https://www.facebook.com/"
               target="_blank"
               rel="noreferrer"
               style="color: white"

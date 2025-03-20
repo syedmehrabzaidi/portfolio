@@ -45,7 +45,7 @@
           <ul class="home-about-social-links">
             <li class="social-icons">
               <a
-                href="https://github.com/muneer-ahmed-khan"
+                href="https://github.com/syedmehrabzaidi"
                 target="_blank"
                 rel="noreferrer"
                 class="icon-colour home-social-icons"

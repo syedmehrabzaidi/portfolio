@@ -62,7 +62,7 @@
       <div class="nav-item fork-btn">
         <a
           class="btn btn-primary fork-btn-inner"
-          href="https://github.com/muneer-ahmed-khan/my-portfolio"
+          href="https://github.com/syedmehrabzaidi/portfolio"
           target="_blank"
           rel="noopener noreferrer"
         >

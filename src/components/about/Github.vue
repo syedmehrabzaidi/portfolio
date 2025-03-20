@@ -32,7 +32,7 @@ export default defineComponent({
     const fetchContributions = async () => {
       try {
         const response = await fetch(
-          'https://github-contributions-api.jogruber.de/v4/muneer-ahmed-khan?y=last'
+          'https://github-contributions-api.jogruber.de/v4/syedmehrabzaidi?y=last'
         )
         const data = await response.json()
 

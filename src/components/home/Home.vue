@@ -12,7 +12,7 @@
 
             <h1 class="heading-name">
               I'M
-              <strong class="main-name"> Muneer Ahmed</strong>
+              <strong class="main-name"> Syed Mehrab</strong>
             </h1>
 
             <div style="padding: 50px; text-align: left">
