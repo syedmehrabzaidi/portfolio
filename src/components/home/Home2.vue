@@ -5,30 +5,34 @@
         <TheCol md="8" class="home-about-description">
           <h1 style="font-size: 2.6em">LET ME <span class="azure"> INTRODUCE </span> MYSELF</h1>
           <p class="home-about-body">
-            I've fallen in love with programming and picked up a thing or two along the way… I
-            think… 🤔💻
+            I'm a Python developer with a passion for Artificial Intelligence and its practical applications.
+            Currently, I'm working on an AI-powered chatbot project where I focus on AI model integration,
+            including RAG (Retrieval-Augmented Generation) systems and model fine-tuning. I handle GPU server
+            for model deployment. My journey in programming revolves around exploring new possibilities in AI,
+            and I'm always eager to learn and implement the latest advancements in the field. Every day presents
+            an opportunity to grow and expand my knowledge in AI, which keeps me motivated and excited about what's
+            possible in this ever-evolving domain.
             <br />
             <br />I am fluent in classics like
             <i>
-              <b class="azure"> Javascript and Python. </b>
+              <b class="azure"> Python. </b>
             </i>
             <br />
             <br />
-            My field of Interest's are building new &nbsp;
+            My field of interest includes building new &nbsp;
             <i>
-              <b class="azure">Web Technologies and Products </b> and also in areas related
-              <b class="azure"> AI, ML and LLMs. </b>
+              <b class="azure"> Web Technologies and Products </b> and also areas related to
+              <b class="azure"> AI, ML, and LLMs. </b>
             </i>
             <br />
             <br />
             Whenever possible, I also apply my passion for developing products with
-            <b class="azure">Node.js</b> and
             <i>
-              <b class="azure"> Modern Javascript Libraries and Frameworks </b>
+              <b class="azure"> Modern Frameworks and Libraries </b>
             </i>
             &nbsp; like
             <i>
-              <b class="azure"> Vue.js and React.js </b>
+              <b class="azure"> Django, FastAPI, and Next.js. </b>
             </i>
           </p>
         </TheCol>
@@ -55,7 +59,7 @@
             </li>
             <li class="social-icons">
               <a
-                href="https://www.linkedin.com/in/muneer-ahmed-a59362140/"
+                href="https://www.linkedin.com/in/syed-mehrab-18934220a/"
                 target="_blank"
                 rel="noreferrer"
                 class="icon-colour home-social-icons"
@@ -65,7 +69,7 @@
             </li>
             <li class="social-icons">
               <a
-                href="https://stackoverflow.com/users/8422060/muneer-khan"
+                href="https://stackoverflow.com/#"
                 target="_blank"
                 rel="noreferrer"
                 class="icon-colour home-social-icons"
@@ -75,7 +79,7 @@
             </li>
             <li class="social-icons">
               <a
-                href="https://medium.com/@muneerkhan31886"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
                 class="icon-colour home-social-icons"
@@ -85,7 +89,7 @@
             </li>
             <li class="social-icons">
               <a
-                href="https://www.facebook.com/muneerkhan555/"
+                href="https://www.facebook.com/#/"
                 target="_blank"
                 rel="noreferrer"
                 class="icon-colour home-social-icons"
